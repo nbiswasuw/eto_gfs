@@ -1,0 +1,699 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>100[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 100 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 0 100 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">100-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>200[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 200 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 0 200 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">200-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>300[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 300 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 1 44 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">300-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>500[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 500 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 1 244 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">500-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>700[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 700 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 2 188 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">700-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>1000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 1000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 3 232 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">1000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>2000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 2000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 7 208 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">2000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>3000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 3000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 11 184 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">3000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>5000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 5000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 19 136 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">5000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>7000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 7000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 27 88 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">7000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>10000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 10000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 39 16 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">10000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <Description>15000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 15000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 58 152 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">15000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <Description>20000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 20000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 78 32 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">20000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <Description>25000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 25000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 97 168 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">25000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <Description>30000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 30000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 117 48 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">30000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <Description>35000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 35000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 136 184 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">35000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <Description>40000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 40000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 156 64 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">40000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <Description>45000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 45000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 175 200 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">45000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <Description>50000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 50000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 195 80 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">50000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <Description>55000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 55000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 214 216 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">55000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <Description>60000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 60000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 234 96 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">60000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <Description>65000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 65000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 0 253 232 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">65000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <Description>70000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 70000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 17 112 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">70000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <Description>75000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 75000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 36 248 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">75000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <Description>80000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 80000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 56 128 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">80000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <Description>85000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 85000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 76 8 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">85000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <Description>90000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 90000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 95 144 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">90000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <Description>92500[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 92500 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 105 84 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">92500-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <Description>95000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 95000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 115 24 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">95000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <Description>97500[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 97500 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 124 220 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">97500-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <Description>100000[Pa] ISBL="Isobaric surface"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 100 0 100000 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 100 0 0 1 134 160 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">100000-ISBL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <Description>2[m] HTGL="Specified height level above ground"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 103 0 2 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 103 0 0 0 0 2 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">2-HTGL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <Description>0[-] EATM="Entire atmosphere (considered as a single layer)"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 200 0 0 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 200 0 0 0 0 0 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0-EATM</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <Description>0[-] 0DEG="Level of 0 degree C isotherm"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 4 0 0 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 4 0 0 0 0 0 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0-0DEG</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <Description>0[-] HTFL="Highest tropospheric freezing level"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 204 0 0 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 204 0 0 0 0 0 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0-HTFL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <Description>3000-0[Pa] SPDL="Level at specified pressure difference from ground to level"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 108 0 3000 108 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 108 0 0 0 11 184 108 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">3000-0-SPDL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <Description>0.33-1['sigma' value] SIGL="Sigma level"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 104 2 33 104 2 100</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 104 2 0 0 0 33 104 2 0 0 0 100</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0.33-1-SIGL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <Description>0.44-1['sigma' value] SIGL="Sigma level"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 104 2 44 104 2 100</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 104 2 0 0 0 44 104 2 0 0 0 100</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0.44-1-SIGL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <Description>0.72-0.94['sigma' value] SIGL="Sigma level"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 104 2 72 104 2 94</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 104 2 0 0 0 72 104 2 0 0 0 94</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0.72-0.94-SIGL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <Description>0.44-0.72['sigma' value] SIGL="Sigma level"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 104 2 44 104 2 72</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 104 2 0 0 0 44 104 2 0 0 0 72</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0.44-0.72-SIGL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <Description>0.995['sigma' value] SIGL="Sigma level"</Description>
+    <Metadata>
+      <MDI key="GRIB_COMMENT">Relative humidity [%]</MDI>
+      <MDI key="GRIB_DISCIPLINE">0(Meteorological)</MDI>
+      <MDI key="GRIB_ELEMENT">RH</MDI>
+      <MDI key="GRIB_FORECAST_SECONDS">10800 sec</MDI>
+      <MDI key="GRIB_IDS">CENTER=7(US-NCEP) SUBCENTER=0 MASTER_TABLE=2 LOCAL_TABLE=1 SIGNF_REF_TIME=1(Start_of_Forecast) REF_TIME=2020-01-08T00:00:00Z PROD_STATUS=0(Operational) TYPE=1(Forecast)</MDI>
+      <MDI key="GRIB_PDS_PDTN">0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_ASSEMBLED_VALUES">1 1 2 0 96 0 0 1 3 104 4 9950 255 0 0</MDI>
+      <MDI key="GRIB_PDS_TEMPLATE_NUMBERS">1 1 2 0 96 0 0 0 1 0 0 0 3 104 4 0 0 38 222 255 0 0 0 0 0</MDI>
+      <MDI key="GRIB_REF_TIME">1578441600 sec UTC</MDI>
+      <MDI key="GRIB_SHORT_NAME">0.995-SIGL</MDI>
+      <MDI key="GRIB_UNIT">[%]</MDI>
+      <MDI key="GRIB_VALID_TIME">1578452400 sec UTC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
